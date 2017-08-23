@@ -1,2 +1,3 @@
 # HackerRank
-My hackerrank.com Solutions 
+My hackerrank Solutions 
+https://www.hackerrank.com/jabbottable
